@@ -1,5 +1,6 @@
-const palindromes = function () {
-
+const palindromes = function (s) {
+    const $s = s.split(); 
+    return $s;
 };
 
 // Do not edit below this line
